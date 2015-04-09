@@ -2,6 +2,6 @@
   "name": "AccelStepper",
   "author": "Mike McCauley <mikem@open.com.au>",
   "license": "GPLv2",
-  "version": "1.2",
+  "version": "1.2.0",
   "description": "This is the AccelStepper library ported to work on the Spark Core."
 }
