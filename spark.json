@@ -1,0 +1,7 @@
+{
+  "name": "uber-library-example",
+  "author": "Mike McCauley <mikem@open.com.au>",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "This is the AccelStepper library ported to work on the Spark Core."
+}
