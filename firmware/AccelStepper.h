@@ -148,6 +148,7 @@
 
 #if defined (SPARK)
   #include "application.h"
+  #include "math.h"
 #else
   #if defined(ARDUINO) && ARDUINO >= 100
     #include "Arduino.h"
